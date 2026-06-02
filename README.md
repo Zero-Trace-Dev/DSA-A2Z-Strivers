@@ -1,43 +1,43 @@
-# 🚀 A2Z DSA Sheet — Progress Tracker
+<h1 align="center">🚀 Striver's A2Z DSA Sheet — Solutions & Progress Tracker</h1>
 
-> Solving Striver's A2Z DSA Sheet systematically — from basics to advanced.  
-> Tracking my journey to master Data Structures & Algorithms for placements & competitive programming.
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Problems-455-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Solved-0-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sheet-A2Z%20DSA-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
 
----
-
-## 📊 Overall Progress
-
-![Progress](https://img.shields.io/badge/Solved-0%2F455-red?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge)
-
-```
-Total Progress:  [░░░░░░░░░░░░░░░░░░░░] 0 / 455 (0%)
-```
+<p align="center">
+  Solving <a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/">Striver's A2Z DSA Sheet</a> — a structured roadmap from basics to advanced DSA, curated by <strong>Raj Vikramaditya (Striver)</strong>. This repo tracks my journey through 455+ problems, organized topic-wise for interview prep at FAANG & top product-based companies.
+</p>
 
 ---
 
-## 📚 Topic-wise Progress
+## 📊 Progress Tracker
 
-| # | Topic | Solved | Total | Progress | Status |
-|---|-------|--------|-------|----------|--------|
-| 1 | 📐 Step 1 — Basics | 0 | 31 | `░░░░░░░░░░` 0% | 🔴 Not Started |
-| 2 | 📦 Step 2 — Arrays | 0 | 40 | `░░░░░░░░░░` 0% | 🔴 Not Started |
-| 3 | 🔗 Step 3 — Linked List | 0 | 31 | `░░░░░░░░░░` 0% | 🔴 Not Started |
-| 4 | 🧮 Step 4 — Greedy Algorithms | 0 | 16 | `░░░░░░░░░░` 0% | 🔴 Not Started |
-| 5 | 🔁 Step 5 — Recursion & Backtracking | 0 | 25 | `░░░░░░░░░░` 0% | 🔴 Not Started |
-| 6 | 🔍 Step 6 — Binary Search | 0 | 32 | `░░░░░░░░░░` 0% | 🔴 Not Started |
-| 7 | 🏗️ Step 7 — Stacks & Queues | 0 | 23 | `░░░░░░░░░░` 0% | 🔴 Not Started |
-| 8 | 🌳 Step 8 — Binary Trees | 0 | 39 | `░░░░░░░░░░` 0% | 🔴 Not Started |
-| 9 | 🌲 Step 9 — Binary Search Trees | 0 | 16 | `░░░░░░░░░░` 0% | 🔴 Not Started |
-| 10 | 🔢 Step 10 — Heaps | 0 | 17 | `░░░░░░░░░░` 0% | 🔴 Not Started |
-| 11 | 🗺️ Step 11 — Graphs | 0 | 54 | `░░░░░░░░░░` 0% | 🔴 Not Started |
-| 12 | 💡 Step 12 — Dynamic Programming | 0 | 56 | `░░░░░░░░░░` 0% | 🔴 Not Started |
-| 13 | 🔤 Step 13 — Tries | 0 | 7 | `░░░░░░░░░░` 0% | 🔴 Not Started |
-| 14 | 🧩 Step 14 — Strings | 0 | 34 | `░░░░░░░░░░` 0% | 🔴 Not Started |
-| 15 | ➕ Step 15 — Mixed Concepts | 0 | 34 | `░░░░░░░░░░` 0% | 🔴 Not Started |
+| Step | Topic | Solved | Total | Status |
+|------|-------|--------|-------|--------|
+| Step 1  | Learn the Basics | 0 | 31 | 🔴 Not Started |
+| Step 2  | Sorting Techniques | 0 | 7 | 🔴 Not Started |
+| Step 3  | Arrays | 0 | 40 | 🔴 Not Started |
+| Step 4  | Binary Search | 0 | 32 | 🔴 Not Started |
+| Step 5  | Strings | 0 | 24 | 🔴 Not Started |
+| Step 6  | Linked List | 0 | 31 | 🔴 Not Started |
+| Step 7  | Recursion & Backtracking | 0 | 25 | 🔴 Not Started |
+| Step 8  | Bit Manipulation | 0 | 18 | 🔴 Not Started |
+| Step 9  | Stacks & Queues | 0 | 30 | 🔴 Not Started |
+| Step 10 | Sliding Window & Two Pointers | 0 | 12 | 🔴 Not Started |
+| Step 11 | Heaps | 0 | 17 | 🔴 Not Started |
+| Step 12 | Greedy Algorithms | 0 | 16 | 🔴 Not Started |
+| Step 13 | Binary Trees | 0 | 39 | 🔴 Not Started |
+| Step 14 | Binary Search Trees (BST) | 0 | 16 | 🔴 Not Started |
+| Step 15 | Graphs | 0 | 54 | 🔴 Not Started |
+| Step 16 | Dynamic Programming | 0 | 56 | 🔴 Not Started |
+| Step 17 | Tries | 0 | 7 | 🔴 Not Started |
+| Step 18 | Advanced Strings | 0 | 9 | 🔴 Not Started |
 
-> **Status Legend:** 🔴 Not Started &nbsp;|&nbsp; 🟡 In Progress &nbsp;|&nbsp; 🟢 Completed
+> **Legend:** 🔴 Not Started &nbsp;|&nbsp; 🟡 In Progress &nbsp;|&nbsp; 🟢 Completed
 
 ---
 
@@ -47,53 +47,64 @@ Total Progress:  [░░░░░░░░░░░░░░░░░░░░] 
 A2Z-DSA-Sheet/
 │
 ├── Step-01-Basics/
-│   ├── Patterns/
-│   ├── Sorting/
-│   └── Math-Problems/
+│   ├── Pattern-Problems/
+│   ├── Math-Problems/
+│   └── Hashing/
 │
-├── Step-02-Arrays/
+├── Step-02-Sorting/
+│   ├── Selection-Sort.cpp
+│   ├── Bubble-Sort.cpp
+│   ├── Insertion-Sort.cpp
+│   ├── Merge-Sort.cpp
+│   └── Quick-Sort.cpp
+│
+├── Step-03-Arrays/
 │   ├── Easy/
 │   ├── Medium/
 │   └── Hard/
 │
-├── Step-03-LinkedList/
+├── Step-04-Binary-Search/
+│   ├── On-Arrays/
+│   ├── On-Answers/
+│   └── On-2D-Arrays/
+│
+├── Step-05-Strings/
+│   ├── Basic/
+│   └── Medium-Hard/
+│
+├── Step-06-LinkedList/
 │   ├── 1D-LinkedList/
 │   ├── Doubly-LinkedList/
 │   └── Medium-Hard/
 │
-├── Step-04-Greedy/
-├── Step-05-Recursion-Backtracking/
-├── Step-06-Binary-Search/
-├── Step-07-Stacks-Queues/
-├── Step-08-Binary-Trees/
-├── Step-09-BST/
-├── Step-10-Heaps/
-├── Step-11-Graphs/
-├── Step-12-DP/
-├── Step-13-Tries/
-├── Step-14-Strings/
-└── Step-15-Mixed/
+├── Step-07-Recursion-Backtracking/
+├── Step-08-Bit-Manipulation/
+├── Step-09-Stacks-Queues/
+├── Step-10-Sliding-Window-Two-Pointers/
+├── Step-11-Heaps/
+├── Step-12-Greedy/
+├── Step-13-Binary-Trees/
+├── Step-14-BST/
+├── Step-15-Graphs/
+├── Step-16-Dynamic-Programming/
+├── Step-17-Tries/
+└── Step-18-Advanced-Strings/
 ```
-
----
-
-## ✅ How to Use This Repo
-
-1. Each folder corresponds to a step in Striver's A2Z Sheet
-2. Each file is named after the problem (e.g., `TwoSum.cpp`)
-3. Solutions include comments explaining the approach
-4. Time & Space complexity is mentioned at the top of each file
 
 ---
 
 ## 📝 Solution Template
 
+Each solution file follows this format:
+
 ```cpp
 /*
  * Problem   : <Problem Name>
- * Platform  : LeetCode / GFG / Codeforces
+ * Platform  : LeetCode / Codeforces / GFG
  * Difficulty: Easy / Medium / Hard
- * Approach  : <Brief explanation>
+ * Link      : <Problem URL>
+ *
+ * Approach  : <Brief explanation of approach>
  * Time      : O(?)
  * Space     : O(?)
  */
@@ -101,27 +112,47 @@ A2Z-DSA-Sheet/
 #include <bits/stdc++.h>
 using namespace std;
 
-// Solution here
+class Solution {
+public:
+    // Solution here
+};
 ```
 
 ---
 
-## 🔗 Resources
+## 📌 What is Striver's A2Z DSA Sheet?
 
-- 📌 [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
-- 📺 [Striver's YouTube Channel](https://www.youtube.com/@takeUforward)
-- 💻 [LeetCode](https://leetcode.com/)
-- 🧠 [GeeksForGeeks](https://www.geeksforgeeks.org/)
+<a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/">Striver's A2Z DSA Sheet</a> is a free, structured roadmap created by **Raj Vikramaditya (Striver)** hosted on [takeuforward.org](https://takeuforward.org). It covers:
+
+- ✅ 455+ handpicked problems from easy to hard
+- ✅ 18 well-organized steps/topics
+- ✅ Video explanations for every problem
+- ✅ Covers all topics needed for FAANG & PBC interviews
+- ✅ Suitable for beginners as well as experienced coders
 
 ---
 
-## 🙋 About Me
+## 🔗 Important Links
 
-- **Name:** Your Name
+| Resource | Link |
+|----------|------|
+| 📋 A2Z DSA Sheet | [takeuforward.org](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) |
+| 📺 YouTube Channel | [takeUforward](https://www.youtube.com/@takeUforward) |
+| 💻 LeetCode | [leetcode.com](https://leetcode.com) |
+| ⚡ Codeforces | [codeforces.com](https://codeforces.com) |
+| 🧠 GeeksForGeeks | [geeksforgeeks.org](https://www.geeksforgeeks.org) |
+| 🎯 Coding Ninjas | [codingninjas.com](https://www.codingninjas.com) |
+
+---
+
+## 👤 About Me
+
 - **GitHub:** [@your-username](https://github.com/your-username)
-- **LinkedIn:** [your-linkedin](https://linkedin.com/in/your-linkedin)
+- **LinkedIn:** [your-name](https://linkedin.com/in/your-linkedin)
+- **LeetCode:** [your-handle](https://leetcode.com/your-handle)
+- **Codeforces:** [your-handle](https://codeforces.com/profile/your-handle)
 
 ---
 
-> ⭐ Star this repo if you find it helpful!  
-> 💬 Feel free to open issues or PRs for better solutions!
+<p align="center">⭐ Star this repo if it helped you! &nbsp;|&nbsp; 🍴 Fork it and track your own progress!</p>
+<p align="center">Made with ❤️ while grinding DSA</p>
