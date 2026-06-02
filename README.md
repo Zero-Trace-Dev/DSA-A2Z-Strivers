@@ -147,7 +147,7 @@ public:
 
 ## 👤 About Me
 
-- **LinkedIn:** [Saransh Arora](www.linkedin.com/in/saransharora1200)
+- **LinkedIn:** [Saransh Arora](https://www.linkedin.com/in/saransharora1200/)
 - **LeetCode:** [_ZeroTrace_](https://leetcode.com/u/_ZeroTrace_/)
 - **Codeforces:** [ZeroTrace](https://codeforces.com/profile/ZeroTrace)
 
