@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Solving <a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/">Striver's A2Z DSA Sheet</a> — a structured roadmap from basics to advanced DSA, curated by <strong>Raj Vikramaditya (Striver)</strong>. This repo tracks my journey through 455+ problems, organized topic-wise for interview prep at FAANG & top product-based companies.
+  Solving <a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/">Striver's A2Z DSA Sheet</a> — a structured roadmap from basics to advanced DSA, curated by <strong>Raj Sir (Striver)</strong>. This repo tracks my journey through 455+ problems, organized topic-wise for interview prep at FAANG & top product-based companies.
 </p>
 
 ---
@@ -122,7 +122,7 @@ public:
 
 ## 📌 What is Striver's A2Z DSA Sheet?
 
-<a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/">Striver's A2Z DSA Sheet</a> is a free, structured roadmap created by **Raj Vikramaditya (Striver)** hosted on [takeuforward.org](https://takeuforward.org). It covers:
+<a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/">Striver's A2Z DSA Sheet</a> is a free, structured roadmap created by **Raj Sir (Striver)** hosted on [takeuforward.org](https://takeuforward.org). It covers:
 
 - ✅ 455+ handpicked problems from easy to hard
 - ✅ 18 well-organized steps/topics
@@ -147,10 +147,9 @@ public:
 
 ## 👤 About Me
 
-- **GitHub:** [@your-username](https://github.com/your-username)
-- **LinkedIn:** [your-name](https://linkedin.com/in/your-linkedin)
-- **LeetCode:** [your-handle](https://leetcode.com/your-handle)
-- **Codeforces:** [your-handle](https://codeforces.com/profile/your-handle)
+- **LinkedIn:** [Saransh Arora](www.linkedin.com/in/saransharora1200)
+- **LeetCode:** [_ZeroTrace_](https://leetcode.com/u/_ZeroTrace_/)
+- **Codeforces:** [ZeroTrace](https://codeforces.com/profile/ZeroTrace)
 
 ---
 
