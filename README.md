@@ -18,7 +18,7 @@
 
 | Step | Topic | Solved | Total | Status |
 |------|-------|--------|-------|--------|
-| Step 1  | Learn the Basics | 0 | 31 | 🔴 Not Started |
+| Step 1  | Learn the Basics | 0 | 31 | 🟡 In Progress |
 | Step 2  | Sorting Techniques | 0 | 7 | 🔴 Not Started |
 | Step 3  | Arrays | 0 | 40 | 🔴 Not Started |
 | Step 4  | Binary Search | 0 | 32 | 🔴 Not Started |
